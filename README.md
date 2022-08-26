@@ -1,9 +1,9 @@
-# html_responsive_iframe
+# HTML with responsive iFrame
 How TO - Responsive Iframe
 
 ## Step 1
 
-Use a container element, like <div>, and add the iframe inside of it:
+Use a container element, like **&lt;div&gt;**, and add the iFrame inside of it:
 
 ### Example
 ```
@@ -73,6 +73,6 @@ Add: height
 ```
 .container {
   height: 100%;
- }
- ```
- 
+}
+```
+
